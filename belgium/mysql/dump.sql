@@ -69,7 +69,7 @@ VALUES
 	(40,'Dinant',NULL,10,'91000',2413),
 	(41,'Namur','Namen',10,'92000',2628),
 	(42,'Philippeville',NULL,10,'93000',2709),
-	(43,'Bruxelles-Capitale','Brussel-Hoofdstad',NULL,'04000',2747);
+	(43,'Bruxelles-Capitale','Brussel-Hoofdstad',NULL,'21000',2747);
 
 /*!40000 ALTER TABLE `arrondissements` ENABLE KEYS */;
 UNLOCK TABLES;
