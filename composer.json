@@ -8,8 +8,5 @@
             "email": "michael@estsurinter.net"
         }
     ],
-    "require": {
-        "illuminate/database": "4.2.*"
-    },
     "minimum-stability": "stable"
 }
