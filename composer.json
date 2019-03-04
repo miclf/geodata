@@ -8,5 +8,10 @@
             "email": "michael@estsurinter.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Miclf\\Geodata\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
